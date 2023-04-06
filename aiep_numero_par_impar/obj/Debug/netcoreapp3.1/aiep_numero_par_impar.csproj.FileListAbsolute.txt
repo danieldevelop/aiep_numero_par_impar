@@ -1,0 +1,14 @@
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\bin\Debug\netcoreapp3.1\aiep_numero_par_impar.exe
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\bin\Debug\netcoreapp3.1\aiep_numero_par_impar.deps.json
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\bin\Debug\netcoreapp3.1\aiep_numero_par_impar.runtimeconfig.json
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\bin\Debug\netcoreapp3.1\aiep_numero_par_impar.runtimeconfig.dev.json
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\bin\Debug\netcoreapp3.1\aiep_numero_par_impar.dll
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\bin\Debug\netcoreapp3.1\aiep_numero_par_impar.pdb
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\obj\Debug\netcoreapp3.1\aiep_numero_par_impar.csproj.AssemblyReference.cache
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\obj\Debug\netcoreapp3.1\aiep_numero_par_impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\obj\Debug\netcoreapp3.1\aiep_numero_par_impar.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\obj\Debug\netcoreapp3.1\aiep_numero_par_impar.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\obj\Debug\netcoreapp3.1\aiep_numero_par_impar.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\obj\Debug\netcoreapp3.1\aiep_numero_par_impar.dll
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\obj\Debug\netcoreapp3.1\aiep_numero_par_impar.pdb
+C:\Users\Daniel\OneDrive\workspace\projects_visual_studio\aiep_numero_par_impar\aiep_numero_par_impar\obj\Debug\netcoreapp3.1\aiep_numero_par_impar.genruntimeconfig.cache
